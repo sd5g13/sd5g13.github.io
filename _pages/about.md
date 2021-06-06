@@ -6,7 +6,7 @@ description: <a href="https://cs.shu.edu.cn/">School of Computer Engineering and
 
 profile:
   align: right
-  image: /assets/img/IMG_9055.jpg
+  image: IMG_9055.jpg
   address: >
     <p>Ph.D., Assistant Professor</p>
     <p>Telephone: +(00)86 21 6613 5305 </p>
