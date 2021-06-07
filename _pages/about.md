@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Dr. Shengyu Duan is a lecturer (Assistant Professor) of the School of Computer Engineering and Science, at Shanghai University, China. He received the Ph.D. degree in Electronics and Electrical Engineering from the University of Southampton, U.K., in 2019. His research expertise include integrated circuits (ICs) reliability, hardware sercurity and hardware acceleration for machine learning.  
+Dr. Shengyu Duan is a lecturer (Assistant Professor) of the School of Computer Engineering and Science, at Shanghai University, China. He received the Ph.D. degree in Electronics and Electrical Engineering from the University of Southampton, U.K., in 2019. His research expertise include integrated circuits (ICs) reliability, hardware sercurity and domain specific architecture (DSA) for machine learning.  
